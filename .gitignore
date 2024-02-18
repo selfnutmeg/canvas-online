@@ -1,0 +1,10 @@
+**/node_modules
+.vscode
+
+# testing
+/coverage
+
+# production
+/client/build
+
+npm-debug.log*

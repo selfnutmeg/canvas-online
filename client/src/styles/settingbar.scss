@@ -1,0 +1,19 @@
+@import './variables';
+
+.settingbar {
+    width: 100%;
+    height: $topbar-height;
+    padding: 0 10px;
+    background-color: white;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    box-shadow: 0 1px 4px gray;
+    z-index: 1;
+
+    &__input-field {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+    }
+}
