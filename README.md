@@ -1,2 +1,2 @@
-# canvas-online
-Simple online multiuser canvas implemented with WebSockets
+# Online multiuser canvas
+Simple online multiuser canvas - Express, WebSockets, React, TypeScript, MobX, SCSS
